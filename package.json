@@ -1,7 +1,7 @@
 {
   "name": "react-app-rewire-happy-pack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Add [HappyPack](https://github.com/amireh/happypack) to your [create-react-app](https://github.com/facebookincubator/create-react-app) via [react-app-rewired](https://github.com/timarney/react-app-rewired).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,17 @@
     "happypack": "^5.0.1"
   },
   "author": "tomdyqin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdyqin/react-app-rewire-happy-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomdyqin/react-app-rewire-happy-pack/issues"
+  },
+  "homepage": "https://github.com/tomdyqin/react-app-rewire-happy-pack#readme",
+  "keywords": [
+    "react-app-rewire",
+    "happypack"
+  ]
 }
